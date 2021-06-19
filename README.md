@@ -17,5 +17,5 @@
 ## Использование
 ```python main.py```
 ## Cкриншот результатов атаки
-![image](https://i.imgur.com/nqGxrxu.jpeg)
+![image](https://i.imgur.com/nqGxrxu.jpeg "700К запросов, впечатляет!")
 # Наш канал - [@WANNADEAUTH](https://t.me/WANNADEAUTH), подпишись!
